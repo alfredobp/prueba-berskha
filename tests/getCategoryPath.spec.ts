@@ -1,3 +1,9 @@
+/**
+ * Author: Alfredo Barragán
+ * Date: 2024-06-01
+ * Description: Unit tests for getCategoryPath function.
+ */
+
 import { getCategoryPath } from '../src/getCategoryPath';
 import { categories } from '../src/data';
 

@@ -1,4 +1,10 @@
 /**
+ * @author Alfredo Barragán
+ * @date 2024-06-01
+ * @description Function to get the path of a category in a nested category structure.
+ */
+
+/**
  * This function takes a nested category structure and a category name, and returns the path to that category as a string.
  * If the category is not found, it returns null.
  */
